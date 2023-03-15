@@ -1,0 +1,30 @@
+8. responsive border
+
+links:
+check in browser console:
+pagewidth
+2126
+pageheigth
+1002
+$('.magazine').turn('options').width
+resize the picture to this size and measure in irfanview
+10 142
+653 452
+
+https://old.photojoiner.net/
+preview:
+resize:372*351
+magasin.js-237:
+
+"url": "mailto:someone@example.com"
+slide margin 45
+gomb #ff6666  from #ff0000
+
+slider margin
+C:\IdeaProjects\portfolio\css\jquery.ui.css--10
+
+1. Bird's-eye view
+2. cimlap
+
+csuszka rahuzaskor minikepek egybol latszanak
+bal jobb oldalon nyilak rahuzaskor
