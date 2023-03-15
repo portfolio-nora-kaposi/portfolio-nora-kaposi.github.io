@@ -28,3 +28,5 @@ C:\IdeaProjects\portfolio\css\jquery.ui.css--10
 
 csuszka rahuzaskor minikepek egybol latszanak
 bal jobb oldalon nyilak rahuzaskor
+
+
