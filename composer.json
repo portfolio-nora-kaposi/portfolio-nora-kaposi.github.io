@@ -1,0 +1,10 @@
+{
+    "name": "pma/portfolio",
+    "authors": [
+        {
+            "name": "pma",
+            "email": "pma@asdasd.com"
+        }
+    ],
+    "require": {}
+}
