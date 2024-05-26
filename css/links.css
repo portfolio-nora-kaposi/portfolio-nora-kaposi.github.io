@@ -1,0 +1,16 @@
+.links {
+    z-index: 10;
+    position: absolute;
+}
+#link1 {
+    left: 5px;
+    top: 80px;
+    width: 382px;
+    height: 270px;
+}
+#link2 {
+    left: 100px;
+    top: 100px;
+    width: 500px;
+    height: 500px;
+}
