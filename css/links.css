@@ -9,8 +9,36 @@
     height: 270px;
 }
 #link2 {
-    left: 100px;
-    top: 100px;
-    width: 500px;
-    height: 500px;
+    left: 50px;
+    top: 400px;
+    width: 810px;
+    height: 50px;
+}
+
+#link3 {
+    left: 50px;
+    top: 450px;
+    width: 810px;
+    height: 50px;
+}
+
+#link4 {
+    left: 50px;
+    top: 500px;
+    width: 810px;
+    height: 50px;
+}
+
+#link5 {
+    left: 50px;
+    top: 550px;
+    width: 810px;
+    height: 50px;
+}
+
+#link6 {
+    left: 50px;
+    top: 600px;
+    width: 810px;
+    height: 50px;
 }
