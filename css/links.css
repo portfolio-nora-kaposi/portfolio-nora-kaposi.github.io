@@ -2,66 +2,52 @@
     z-index: 10;
     position: absolute;
 }
+
 #link1 {
-    left: calc(5px * 0.43);
-    top: calc(80px * 0.43);
-    width: calc(382px * 0.43);
-    height: calc(270px * 0.43);
-}
-#link2 {
     left: calc(50px * 0.43);
     top: calc(400px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
 
-#link3 {
+#link2 {
     left: calc(50px * 0.43);
     top: calc(444px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
 
-#link4 {
+#link3 {
     left: calc(50px * 0.43);
     top: calc(488px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
 
-#link5 {
+#link4 {
     left: calc(50px * 0.43);
     top: calc(532px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
 
-#link6 {
+#link5 {
     left: calc(50px * 0.43);
     top: calc(576px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
 
-#link7 {
+#link6 {
     left: calc(50px * 0.43);
     top: calc(620px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
 
-#link8 {
+#link7 {
     left: calc(50px * 0.43);
     top: calc(664px * 0.43);
     width: calc(810px * 0.43);
     height: calc(44px * 0.43);
 }
-
-#link9 {
-    left: calc(50px * 0.43);
-    top: calc(708px * 0.43);
-    width: calc(810px * 0.43);
-    height: calc(44px * 0.43);
-}
-
-
